@@ -18,4 +18,6 @@ within the dataset that is identified as belonging to a third party.
 
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/WWTP_analysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/HAJ-226630/WWTP_analysis/blob/main/WWTP_analysis.ipynb)
+
+
